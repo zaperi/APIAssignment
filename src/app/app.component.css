@@ -1,0 +1,18 @@
+@import url("https://bootswatch.com/5/vapor/bootstrap.min.css");
+
+
+.grid {
+    display: grid;
+    grid-gap: 1px;
+    grid-template-columns: repeat(3, 1fr);
+    padding-left: 8%;
+    column-gap: 40px;
+  }
+
+
+.socmed {
+    margin: 10px;
+
+}
+
+
